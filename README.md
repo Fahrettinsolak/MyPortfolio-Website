@@ -106,4 +106,12 @@ Bu klasör, Razor View dosyalarını içerir.
 
 ![Proje Deneyimler Kısmı](https://github.com/user-attachments/assets/5d0897ab-74d0-4f4d-b1ea-351243778c93)
 
- 
+### Admin Panel Sayfası 
+
+![Proje Admin Panel Kısmı](https://github.com/user-attachments/assets/ada977fb-fca6-4800-bd1a-0454fb4c8f4c)
+
+
+## Katkıda Bulunanlar
+
+- İsim: Fahrettin Solak
+- İletişim: fhrttnsolak96@gmail.com
